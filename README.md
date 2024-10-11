@@ -23,8 +23,7 @@ The MLP model showed the best performance, with the lowest Mean Squared Error (M
 The SPI predictions for future drought events have been mapped using Power BI, visualizing the severity of drought across different regions in Spain. These maps highlight areas with higher or lower SPI values, offering insights into potential drought development in upcoming months.
 
 ## Visualization
-<img src="images/spi_forecast_map.png" alt="SPI Forecast Map" width="600">
-This map represents the SPI predictions for 2023, showing drought severity across Spain for a specific month.
+![image](https://github.com/user-attachments/assets/2f836b40-dc3b-4fdd-a866-7c992227fe40)
 
 ## Future Work
 Spatial Interpolation: Expanding drought predictions to areas without meteorological stations using spatial interpolation techniques.
